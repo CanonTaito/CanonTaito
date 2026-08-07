@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Canon Taito**
+# 🤙🏾 Hi, I'm **Canon Taito**
 
 🔭 **Currently building:** A full-stack workout tracker — .NET 10 Minimal API deployed to Azure App Service with GitHub Actions CI/CD, SQLite (reverted from Azure SQL Server in production), and a React + TypeScript frontend.
 
